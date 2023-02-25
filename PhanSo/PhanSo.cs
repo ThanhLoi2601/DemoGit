@@ -93,7 +93,7 @@ namespace PhanSo
             Console.WriteLine( this.iTuSo + "/" + this.iMauSo);
         }
 
-        public void ToiGian()
+        public void ToiGian() //tối giản phân số 
         {
             if(this.iTuSo==0)
             {
